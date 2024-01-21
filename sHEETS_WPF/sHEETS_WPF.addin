@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command sHEETS_WPF</Text>
+    <Description>Some description for sHEETS_WPF</Description>
+    <Assembly>sHEETS_WPF.dll</Assembly>
+    <FullClassName>sHEETS_WPF.Command</FullClassName>
+    <ClientId>67317680-1145-48dc-928b-4b190518e6c7</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application sHEETS_WPF</Name>
+    <Assembly>sHEETS_WPF.dll</Assembly>
+    <FullClassName>sHEETS_WPF.App</FullClassName>
+    <ClientId>d73518a1-9e42-47af-9f2a-6d043b274664</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
